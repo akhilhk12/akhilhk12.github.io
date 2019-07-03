@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://coephyperloop.com/index.html</loc>
-    <lastmod>2019-07-02</lastmod>
+    <lastmod>2019-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -15,19 +15,19 @@
       <image:loc>http://coephyperloop.com/images/templ164x164.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://coephyperloop.com/images/templ170x170.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://coephyperloop.com/images/templ152x152.png</image:loc>
+      <image:loc>http://coephyperloop.com/images/templ96x96.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://coephyperloop.com/the-pod.html</loc>
-    <lastmod>2019-07-02</lastmod>
+    <lastmod>2019-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://coephyperloop.com/images/templ.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://coephyperloop.com/images/templ164x164.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://coephyperloop.com/images/main72.jpg</image:loc>
@@ -441,33 +441,6 @@
       <image:loc>http://coephyperloop.com/images/sensor%20place3-crop-u44558_2x7.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://coephyperloop.com/images/main72275x154.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://coephyperloop.com/images/main72275x154_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://coephyperloop.com/images/main73275x154.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://coephyperloop.com/images/main73275x154_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://coephyperloop.com/images/placement%20stab275x155.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://coephyperloop.com/images/test%20track227x86.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://coephyperloop.com/images/sensor%20place3275x153.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://coephyperloop.com/images/broch_cover282x158.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://coephyperloop.com/images/broch_cover282x158_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://coephyperloop.com/images/main72-crop-u439578.jpg</image:loc>
     </image:image>
     <image:image>
@@ -502,33 +475,6 @@
     </image:image>
     <image:image>
       <image:loc>http://coephyperloop.com/images/broch_cover-crop-u44884_2x8.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://coephyperloop.com/images/main72234x131.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://coephyperloop.com/images/main72234x131_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://coephyperloop.com/images/main73234x131.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://coephyperloop.com/images/main73234x131_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://coephyperloop.com/images/placement%20stab234x132.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://coephyperloop.com/images/test%20track193x73.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://coephyperloop.com/images/sensor%20place3234x130.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://coephyperloop.com/images/broch_cover239x134.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://coephyperloop.com/images/broch_cover239x134_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://coephyperloop.com/images/main72-crop-u439579.jpg</image:loc>
@@ -629,10 +575,67 @@
     <image:image>
       <image:loc>http://coephyperloop.com/images/sensor%20place3-crop-u44558_2x10.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://coephyperloop.com/images/templ96x96.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://coephyperloop.com/images/main72-crop-u43949.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://coephyperloop.com/images/main72-crop-u43949_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://coephyperloop.com/images/main73-crop-u44256.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://coephyperloop.com/images/main73-crop-u44256_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://coephyperloop.com/images/placement%20stab-crop-u44348.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://coephyperloop.com/images/test%20track272x103.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://coephyperloop.com/images/sensor%20place3-crop-u44532.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://coephyperloop.com/images/broch_cover-crop-u44845.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://coephyperloop.com/images/broch_cover-crop-u44845_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://coephyperloop.com/images/main72-crop-u439492.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://coephyperloop.com/images/main72-crop-u43949_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://coephyperloop.com/images/main73-crop-u442562.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://coephyperloop.com/images/main73-crop-u44256_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://coephyperloop.com/images/placement%20stab-crop-u443482.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://coephyperloop.com/images/test%20track231x88.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://coephyperloop.com/images/sensor%20place3-crop-u445322.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://coephyperloop.com/images/broch_cover-crop-u448452.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://coephyperloop.com/images/broch_cover-crop-u44845_2x2.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://coephyperloop.com/contact-us.html</loc>
-    <lastmod>2019-07-02</lastmod>
+    <lastmod>2019-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -655,6 +658,27 @@
     </image:image>
     <image:image>
       <image:loc>http://coephyperloop.com/images/icons8-instagram-3010x10.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://coephyperloop.com/images/icons8-location-24.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://coephyperloop.com/images/icons8-location-2419x19.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://coephyperloop.com/images/icons8-phone-2415x15.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://coephyperloop.com/images/icons8-envelope-2415x15.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://coephyperloop.com/images/icons8-instagram-3015x15.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://coephyperloop.com/images/icons8-location-2416x17.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://coephyperloop.com/images/icons8-location-2415x15.png</image:loc>
     </image:image>
   </url>
 </urlset>
