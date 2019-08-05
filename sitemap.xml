@@ -2,30 +2,447 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://gmail.com/index.html</loc>
-    <lastmod>2019-07-03</lastmod>
+    <lastmod>2019-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://gmail.com/images/templ.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://gmail.com/images/infinity-81s-200px.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://gmail.com/images/templ164x164.png</image:loc>
+      <image:loc>http://gmail.com/images/new.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://gmail.com/images/templ96x96.png</image:loc>
+      <image:loc>http://gmail.com/images/new_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/new132x97.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/new132x97_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/new105x77.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/new105x77_2x.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://gmail.com/our-team.html</loc>
+    <lastmod>2019-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://gmail.com/images/new.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/new_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/icons8-color-48.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://gmail.com/gallery.html</loc>
+    <lastmod>2019-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://gmail.com/images/new.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/new_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/team-crop-u80418.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/team-crop-u80418_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190214_002615-crop-u80236.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190214_002615-crop-u80236_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190318_191815-crop-u80378.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190318_191815-crop-u80378_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190318_182024-crop-u80358.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190318_182024-crop-u80358_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/main72-crop-u80398.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/main72-crop-u80398_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img-20190112-wa0006-crop-u80536.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img-20190112-wa0006-crop-u80536_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img-20190519-wa0009%20(1)-crop-u80499.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img-20190519-wa0009%20(1)-crop-u80499_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/broch_cover-crop-u80563.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/broch_cover-crop-u80563_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190318_182024-crop-u80352.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190318_182024-crop-u80352_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/broch_cover-crop-u80557.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190318_191815-crop-u80372.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190318_191815-crop-u80372_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190214_002615-crop-u80223.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190214_002615-crop-u80223_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/main72-crop-u80392.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img-20190112-wa0006-crop-u80530.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/team-crop-u80412.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/team-crop-u804182.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/team-crop-u80418_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190214_002615-crop-u802362.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190214_002615-crop-u80236_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190318_191815-crop-u803782.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190318_191815-crop-u80378_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190318_182024-crop-u803582.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190318_182024-crop-u80358_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/main72-crop-u803982.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/main72-crop-u80398_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img-20190112-wa0006-crop-u805362.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img-20190112-wa0006-crop-u80536_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img-20190519-wa0009%20(1)-crop-u804992.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img-20190519-wa0009%20(1)-crop-u80499_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/broch_cover-crop-u805632.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/broch_cover-crop-u80563_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190318_182024-crop-u803522.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190318_182024-crop-u80352_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/broch_cover-crop-u805572.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190318_191815-crop-u803722.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190318_191815-crop-u80372_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190214_002615-crop-u802232.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190214_002615-crop-u80223_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/main72-crop-u803922.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img-20190112-wa0006-crop-u805302.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/team-crop-u804183.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/team-crop-u80418_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190214_002615-crop-u802363.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190214_002615-crop-u80236_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190318_191815-crop-u803783.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190318_191815-crop-u80378_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190318_182024-crop-u803583.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190318_182024-crop-u80358_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/main72-crop-u803983.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/main72-crop-u80398_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img-20190112-wa0006-crop-u805363.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img-20190112-wa0006-crop-u80536_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img-20190519-wa0009%20(1)-crop-u804993.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img-20190519-wa0009%20(1)-crop-u80499_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/broch_cover-crop-u805633.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/broch_cover-crop-u80563_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190318_182024-crop-u803523.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190318_182024-crop-u80352_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/broch_cover-crop-u805573.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190318_191815-crop-u803723.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190318_191815-crop-u80372_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190214_002615-crop-u802233.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190214_002615-crop-u80223_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/main72-crop-u803923.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img-20190519-wa0009%20(1)-crop-u80493.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img-20190112-wa0006-crop-u805303.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/team-crop-u804122.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/team-crop-u804184.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/team-crop-u80418_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190214_002615-crop-u802364.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190214_002615-crop-u80236_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190318_191815-crop-u803784.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190318_191815-crop-u80378_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190318_182024-crop-u803584.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190318_182024-crop-u80358_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/main72-crop-u803984.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/main72-crop-u80398_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img-20190112-wa0006-crop-u805364.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img-20190112-wa0006-crop-u80536_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img-20190519-wa0009%20(1)-crop-u804994.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img-20190519-wa0009%20(1)-crop-u80499_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/broch_cover-crop-u805634.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/broch_cover-crop-u80563_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190318_182024-crop-u803524.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190318_182024-crop-u80352_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/broch_cover-crop-u805574.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190318_191815-crop-u803724.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190318_191815-crop-u80372_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190214_002615-crop-u802234.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img_20190214_002615-crop-u80223_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/main72-crop-u803924.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img-20190519-wa0009%20(1)-crop-u804932.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img-20190112-wa0006-crop-u805304.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/team-crop-u804123.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img-20190519-wa0009%20(1)-crop-u804933.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/team-crop-u804124.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/img-20190519-wa0009%20(1)-crop-u804934.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://gmail.com/contact-us.html</loc>
+    <lastmod>2019-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://gmail.com/images/icons8-phone-24.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/icons8-envelope-24.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/icons8-instagram-30.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/icons8-phone-249x9.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/icons8-envelope-2410x10.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/icons8-instagram-3010x10.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/icons8-location-24.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/icons8-location-2419x19.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/icons8-location-2416x17.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/icons8-location-2415x15.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/icons8-phone-2414x14.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/icons8-envelope-2414x14.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/icons8-instagram-3014x14.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/icons8-phone-2412x12.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/icons8-envelope-2412x12.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/icons8-instagram-3012x13.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/new.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/new_2x.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://gmail.com/the-pod.html</loc>
-    <lastmod>2019-07-03</lastmod>
+    <lastmod>2019-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://gmail.com/images/templ.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://gmail.com/images/main72.jpg</image:loc>
     </image:image>
@@ -40,9 +457,6 @@
     </image:image>
     <image:image>
       <image:loc>http://gmail.com/images/placement%20stab.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gmail.com/images/test%20track.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://gmail.com/images/sensor%20place3.jpg</image:loc>
@@ -70,12 +484,6 @@
     </image:image>
     <image:image>
       <image:loc>http://gmail.com/images/placement%20stab-crop-u44374_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gmail.com/images/test%20track-crop-u44466.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gmail.com/images/test%20track-crop-u44466_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://gmail.com/images/sensor%20place3-crop-u44558.jpg</image:loc>
@@ -108,12 +516,6 @@
       <image:loc>http://gmail.com/images/placement%20stab-crop-u44374_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://gmail.com/images/test%20track-crop-u444662.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gmail.com/images/test%20track-crop-u44466_2x2.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://gmail.com/images/sensor%20place3-crop-u445582.jpg</image:loc>
     </image:image>
     <image:image>
@@ -139,9 +541,6 @@
     </image:image>
     <image:image>
       <image:loc>http://gmail.com/images/placement%20stab555x312.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gmail.com/images/test%20track458x174.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://gmail.com/images/sensor%20place3555x309.jpg</image:loc>
@@ -171,12 +570,6 @@
       <image:loc>http://gmail.com/images/placement%20stab-crop-u44374_2x3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://gmail.com/images/test%20track-crop-u444663.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gmail.com/images/test%20track-crop-u44466_2x3.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://gmail.com/images/sensor%20place3-crop-u445583.jpg</image:loc>
     </image:image>
     <image:image>
@@ -204,9 +597,6 @@
       <image:loc>http://gmail.com/images/placement%20stab450x253.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://gmail.com/images/test%20track399x151.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://gmail.com/images/sensor%20place3450x250.jpg</image:loc>
     </image:image>
     <image:image>
@@ -232,12 +622,6 @@
     </image:image>
     <image:image>
       <image:loc>http://gmail.com/images/placement%20stab-crop-u44374_2x4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gmail.com/images/test%20track-crop-u444664.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gmail.com/images/test%20track-crop-u44466_2x4.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://gmail.com/images/sensor%20place3-crop-u445584.jpg</image:loc>
@@ -294,12 +678,6 @@
       <image:loc>http://gmail.com/images/placement%20stab-crop-u44374_2x5.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://gmail.com/images/test%20track-crop-u444665.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gmail.com/images/test%20track-crop-u44466_2x5.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://gmail.com/images/sensor%20place3-crop-u445585.jpg</image:loc>
     </image:image>
     <image:image>
@@ -325,9 +703,6 @@
     </image:image>
     <image:image>
       <image:loc>http://gmail.com/images/placement%20stab383x216.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gmail.com/images/test%20track316x120.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://gmail.com/images/sensor%20place3383x213.jpg</image:loc>
@@ -357,12 +732,6 @@
       <image:loc>http://gmail.com/images/placement%20stab-crop-u44374_2x6.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://gmail.com/images/test%20track-crop-u444666.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gmail.com/images/test%20track-crop-u44466_2x6.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://gmail.com/images/sensor%20place3-crop-u445586.jpg</image:loc>
     </image:image>
     <image:image>
@@ -388,9 +757,6 @@
     </image:image>
     <image:image>
       <image:loc>http://gmail.com/images/placement%20stab344x194.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gmail.com/images/test%20track284x108.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://gmail.com/images/sensor%20place3344x191.jpg</image:loc>
@@ -426,12 +792,6 @@
       <image:loc>http://gmail.com/images/placement%20stab-crop-u44374_2x7.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://gmail.com/images/test%20track-crop-u444667.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gmail.com/images/test%20track-crop-u44466_2x7.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://gmail.com/images/sensor%20place3-crop-u445587.jpg</image:loc>
     </image:image>
     <image:image>
@@ -454,12 +814,6 @@
     </image:image>
     <image:image>
       <image:loc>http://gmail.com/images/placement%20stab-crop-u44374_2x8.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gmail.com/images/test%20track-crop-u444668.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gmail.com/images/test%20track-crop-u44466_2x8.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://gmail.com/images/sensor%20place3-crop-u445588.jpg</image:loc>
@@ -492,12 +846,6 @@
       <image:loc>http://gmail.com/images/placement%20stab-crop-u44374_2x9.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://gmail.com/images/test%20track-crop-u444669.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gmail.com/images/test%20track-crop-u44466_2x9.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://gmail.com/images/sensor%20place3-crop-u445589.jpg</image:loc>
     </image:image>
     <image:image>
@@ -523,9 +871,6 @@
     </image:image>
     <image:image>
       <image:loc>http://gmail.com/images/placement%20stab184x104.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gmail.com/images/test%20track152x58.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://gmail.com/images/sensor%20place3184x102.jpg</image:loc>
@@ -561,12 +906,6 @@
       <image:loc>http://gmail.com/images/placement%20stab-crop-u44374_2x10.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://gmail.com/images/test%20track-crop-u4446610.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gmail.com/images/test%20track-crop-u44466_2x10.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://gmail.com/images/sensor%20place3-crop-u4455810.jpg</image:loc>
     </image:image>
     <image:image>
@@ -586,9 +925,6 @@
     </image:image>
     <image:image>
       <image:loc>http://gmail.com/images/placement%20stab-crop-u44348.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gmail.com/images/test%20track272x103.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://gmail.com/images/sensor%20place3-crop-u44532.jpg</image:loc>
@@ -615,9 +951,6 @@
       <image:loc>http://gmail.com/images/placement%20stab-crop-u443482.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://gmail.com/images/test%20track231x88.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://gmail.com/images/sensor%20place3-crop-u445322.jpg</image:loc>
     </image:image>
     <image:image>
@@ -626,62 +959,53 @@
     <image:image>
       <image:loc>http://gmail.com/images/broch_cover-crop-u44845_2x2.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/new.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/new_2x.png</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://gmail.com/contact-us.html</loc>
-    <lastmod>2019-07-03</lastmod>
+    <loc>http://gmail.com/assets/img_20190214_002615.jpg</loc>
+    <lastmod>2019-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://gmail.com/images/templ.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gmail.com/images/icons8-phone-24.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gmail.com/images/icons8-envelope-24.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gmail.com/images/icons8-instagram-30.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gmail.com/images/icons8-phone-249x9.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gmail.com/images/icons8-envelope-2410x10.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gmail.com/images/icons8-instagram-3010x10.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gmail.com/images/icons8-location-24.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gmail.com/images/icons8-location-2419x19.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gmail.com/images/icons8-location-2416x17.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gmail.com/images/icons8-location-2415x15.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gmail.com/images/icons8-phone-2414x14.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gmail.com/images/icons8-envelope-2414x14.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gmail.com/images/icons8-instagram-3014x14.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gmail.com/images/icons8-phone-2412x12.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gmail.com/images/icons8-envelope-2412x12.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gmail.com/images/icons8-instagram-3012x13.png</image:loc>
-    </image:image>
+  </url>
+  <url>
+    <loc>http://gmail.com/assets/img-20190112-wa0006.jpg</loc>
+    <lastmod>2019-08-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gmail.com/assets/img-20190519-wa0009-(1).jpg</loc>
+    <lastmod>2019-08-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gmail.com/assets/img_20190318_191815.jpg</loc>
+    <lastmod>2019-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gmail.com/assets/team.jpeg</loc>
+    <lastmod>2019-06-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gmail.com/assets/img_20190318_182024.jpg</loc>
+    <lastmod>2019-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gmail.com/assets/untitled.68.jpg</loc>
+    <lastmod>2019-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
