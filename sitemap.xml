@@ -6,9 +6,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://gmail.com/images/infinity-81s-200px.svg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://gmail.com/images/new.png</image:loc>
     </image:image>
     <image:image>
@@ -25,6 +22,9 @@
     </image:image>
     <image:image>
       <image:loc>http://gmail.com/images/new105x77_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/infinity-9s-200px-(2).svg</image:loc>
     </image:image>
   </url>
   <url>

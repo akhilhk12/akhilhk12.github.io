@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gmail.com" resolutions="1x,2x" timestamp="1565075494817">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gmail.com" resolutions="1x,2x" timestamp="1565079252523">
   <folder name="assets">
     <file name="team.jpeg" crc="304222971" seo="true" mt="1561523082000"/>
     <file name="img-20190519-wa0009-(1).jpg" crc="113092281" seo="true" mt="1564859136000"/>
@@ -10,18 +10,18 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="2580862"/>
-    <file name="index.css" crc="358262726" ref="index"/>
-    <file name="master_a-master.css" crc="361661324" ref="index:the-pod:contact-us:gallery:our-team"/>
+    <file name="index.css" crc="81286078" ref="index"/>
+    <file name="master_a-master.css" crc="3954232281" ref="index:the-pod:contact-us:gallery:our-team"/>
     <file name="nomq_preview_master_a-master.css" crc="3853324325" ref="index:the-pod:contact-us:gallery:our-team"/>
-    <file name="nomq_index.css" crc="4257652969" ref="index"/>
-    <file name="the-pod.css" crc="334375066" ref="the-pod"/>
-    <file name="nomq_the-pod.css" crc="3899091917" ref="the-pod"/>
-    <file name="contact-us.css" crc="471309183" ref="contact-us"/>
-    <file name="nomq_contact-us.css" crc="4162058289" ref="contact-us"/>
-    <file name="gallery.css" crc="324142263" ref="gallery"/>
-    <file name="nomq_gallery.css" crc="4241442299" ref="gallery"/>
-    <file name="our-team.css" crc="334848651" ref="our-team"/>
-    <file name="nomq_our-team.css" crc="3976165400" ref="our-team"/>
+    <file name="nomq_index.css" crc="3800282690" ref="index"/>
+    <file name="the-pod.css" crc="3867235253" ref="the-pod"/>
+    <file name="nomq_the-pod.css" crc="369235219" ref="the-pod"/>
+    <file name="contact-us.css" crc="3842308365" ref="contact-us"/>
+    <file name="nomq_contact-us.css" crc="67513711" ref="contact-us"/>
+    <file name="gallery.css" crc="4069398179" ref="gallery"/>
+    <file name="nomq_gallery.css" crc="473061724" ref="gallery"/>
+    <file name="our-team.css" crc="4146816441" ref="our-team"/>
+    <file name="nomq_our-team.css" crc="3785923825" ref="our-team"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:the-pod:contact-us:gallery:our-team"/>
@@ -54,19 +54,6 @@
       <caption webpage="contact-us" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:the-pod:contact-us:gallery:our-team"/>
-    <file name="infinity-81s-200px.svg" crc="315791728" ref="index" seo="true">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="infinity-81s-200px_poster_.png" crc="4028106539" ref="index"/>
     <file name="u20705.png" crc="420108249" ref="index"/>
     <file name="u20705_2x.png" crc="4187275776" ref="index"/>
     <file name="u20705-r.png" crc="420108249" ref="index"/>
@@ -329,10 +316,10 @@
     <file name="u27335_2x3.png" crc="3907291428" ref="index"/>
     <file name="u27335-a3.png" crc="4115703613" ref="index"/>
     <file name="u27335-a_2x3.png" crc="3973825534" ref="index"/>
-    <file name="u27347-63.png" crc="4275107333" ref="index"/>
-    <file name="u27347-6_2x3.png" crc="3945026331" ref="index"/>
-    <file name="u27618-53.png" crc="64793405" ref="index"/>
-    <file name="u27618-5_2x3.png" crc="243600686" ref="index"/>
+    <file name="u27347-63.png" crc="448117421" ref="index"/>
+    <file name="u27347-6_2x3.png" crc="306055070" ref="index"/>
+    <file name="u27618-53.png" crc="4003647111" ref="index"/>
+    <file name="u27618-5_2x3.png" crc="4122236966" ref="index"/>
     <file name="u27609-53.png" crc="412682089" ref="index"/>
     <file name="u27609-5_2x3.png" crc="305956305" ref="index"/>
     <file name="u26065-44.png" crc="3993451553" ref="index"/>
@@ -3073,8 +3060,8 @@
     <file name="u116391-4_2x2.png" crc="4200212843" ref="our-team"/>
     <file name="u107216-42.png" crc="526158186" ref="our-team"/>
     <file name="u107216-4_2x2.png" crc="339642647" ref="our-team"/>
-    <file name="u107227-42.png" crc="3867227807" ref="our-team"/>
-    <file name="u107227-4_2x2.png" crc="415618143" ref="our-team"/>
+    <file name="u107227-42.png" crc="322103412" ref="our-team"/>
+    <file name="u107227-4_2x2.png" crc="4106358207" ref="our-team"/>
     <file name="u108188-42.png" crc="3870662367" ref="our-team"/>
     <file name="u108188-4_2x2.png" crc="474901878" ref="our-team"/>
     <file name="u111556-42.png" crc="4127825122" ref="our-team"/>
@@ -3217,8 +3204,8 @@
     </file>
     <file name="u107216-43.png" crc="3837740006" ref="our-team"/>
     <file name="u107216-4_2x3.png" crc="3783973444" ref="our-team"/>
-    <file name="u107227-43.png" crc="4121982294" ref="our-team"/>
-    <file name="u107227-4_2x3.png" crc="266041664" ref="our-team"/>
+    <file name="u107227-43.png" crc="205217942" ref="our-team"/>
+    <file name="u107227-4_2x3.png" crc="177387003" ref="our-team"/>
     <file name="u116391-43.png" crc="246439720" ref="our-team"/>
     <file name="u116391-4_2x3.png" crc="4200212843" ref="our-team"/>
     <file name="u108188-43.png" crc="274410533" ref="our-team"/>
@@ -3679,10 +3666,23 @@
     <file name="u116536-4_2x6.png" crc="123395052" ref="our-team"/>
     <file name="u116542-46.png" crc="4017010779" ref="our-team"/>
     <file name="u116542-4_2x6.png" crc="292946081" ref="our-team"/>
+    <file name="infinity-9s-200px-(2).svg" crc="225959843" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="infinity-9s-200px (2)_poster_.png" crc="4273566046" ref="index"/>
   </folder>
-  <file name="index.html" crc="114887558" seo="true" mt="1565075332213" redirect="true"/>
-  <file name="the-pod.html" crc="4011288801" seo="true" mt="1565075376423" redirect="true"/>
-  <file name="contact-us.html" crc="3786140397" seo="true" mt="1565075380331" redirect="true"/>
-  <file name="gallery.html" crc="343824243" seo="true" mt="1565075332213" redirect="true"/>
-  <file name="our-team.html" crc="487980424" seo="true" mt="1565075332213" redirect="true"/>
+  <file name="index.html" crc="4041007353" seo="true" mt="1565079076889" redirect="true"/>
+  <file name="the-pod.html" crc="319778462" seo="true" mt="1565079123044" redirect="true"/>
+  <file name="contact-us.html" crc="35685087" seo="true" mt="1565079126047" redirect="true"/>
+  <file name="gallery.html" crc="4256405228" seo="true" mt="1565079076889" redirect="true"/>
+  <file name="our-team.html" crc="452740250" seo="true" mt="1565079076889" redirect="true"/>
 </manifest>
