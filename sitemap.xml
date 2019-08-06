@@ -28,6 +28,33 @@
     </image:image>
   </url>
   <url>
+    <loc>http://gmail.com/sponsors.html</loc>
+    <lastmod>2019-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://gmail.com/images/new.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/new_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/solidworks_0.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://gmail.com/blog.html</loc>
+    <lastmod>2019-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://gmail.com/images/new.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/new_2x.png</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://gmail.com/our-team.html</loc>
     <lastmod>2019-08-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -40,6 +67,9 @@
     </image:image>
     <image:image>
       <image:loc>http://gmail.com/images/icons8-color-48.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gmail.com/images/icons8-website-40.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -643,8 +673,20 @@
     </image:image>
   </url>
   <url>
-    <loc>http://gmail.com/assets/img_20190214_002615.jpg</loc>
+    <loc>http://gmail.com/assets/img_20190318_182024.jpg</loc>
     <lastmod>2019-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gmail.com/assets/untitled.68.jpg</loc>
+    <lastmod>2019-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gmail.com/assets/img-20190519-wa0009-(1).jpg</loc>
+    <lastmod>2019-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -655,8 +697,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://gmail.com/assets/img-20190519-wa0009-(1).jpg</loc>
-    <lastmod>2019-08-04</lastmod>
+    <loc>http://gmail.com/assets/img_20190214_002615.jpg</loc>
+    <lastmod>2019-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -673,14 +715,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://gmail.com/assets/img_20190318_182024.jpg</loc>
-    <lastmod>2019-08-03</lastmod>
+    <loc>http://gmail.com/assets/social-media-hyperloop.jpg</loc>
+    <lastmod>2019-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://gmail.com/assets/untitled.68.jpg</loc>
-    <lastmod>2019-06-25</lastmod>
+    <loc>http://gmail.com/assets/636743775643478282-gettyimages-1044494880.jpg</loc>
+    <lastmod>2019-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
