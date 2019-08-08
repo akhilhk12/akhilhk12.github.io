@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="coep.ac.in" resolutions="1x,2x" timestamp="1565276606664">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="coep.ac.in" resolutions="1x,2x" timestamp="1565280657993">
   <folder name="assets">
     <file name="team.jpeg" crc="304222971" seo="true" mt="1561523082000"/>
     <file name="img-20190519-wa0009-(1).jpg" crc="113092281" seo="true" mt="1564859136000"/>
@@ -12,21 +12,21 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="2580862"/>
-    <file name="index.css" crc="278668653" ref="index"/>
-    <file name="master_a-master.css" crc="33461589" ref="index:the-pod:contact-us:gallery:our-team:sponsors:blog"/>
+    <file name="index.css" crc="34045090" ref="index"/>
+    <file name="master_a-master.css" crc="473416313" ref="index:the-pod:contact-us:gallery:our-team:sponsors:blog"/>
     <file name="nomq_preview_master_a-master.css" crc="3853324325" ref="index:the-pod:contact-us:gallery:our-team:sponsors:blog"/>
-    <file name="nomq_index.css" crc="4100454198" ref="index"/>
-    <file name="the-pod.css" crc="4046543166" ref="the-pod"/>
+    <file name="nomq_index.css" crc="4282406757" ref="index"/>
+    <file name="the-pod.css" crc="3968830581" ref="the-pod"/>
     <file name="nomq_the-pod.css" crc="4028164500" ref="the-pod"/>
-    <file name="contact-us.css" crc="352554492" ref="contact-us"/>
-    <file name="nomq_contact-us.css" crc="3837194178" ref="contact-us"/>
-    <file name="gallery.css" crc="290587299" ref="gallery"/>
+    <file name="contact-us.css" crc="4175138306" ref="contact-us"/>
+    <file name="nomq_contact-us.css" crc="230797958" ref="contact-us"/>
+    <file name="gallery.css" crc="270338921" ref="gallery"/>
     <file name="nomq_gallery.css" crc="244243668" ref="gallery"/>
-    <file name="our-team.css" crc="295380397" ref="our-team"/>
+    <file name="our-team.css" crc="3991347619" ref="our-team"/>
     <file name="nomq_our-team.css" crc="4142498190" ref="our-team"/>
-    <file name="sponsors.css" crc="4014310676" ref="sponsors"/>
+    <file name="sponsors.css" crc="4052778484" ref="sponsors"/>
     <file name="nomq_sponsors.css" crc="3785469799" ref="sponsors"/>
-    <file name="blog.css" crc="3882273105" ref="blog"/>
+    <file name="blog.css" crc="479593668" ref="blog"/>
     <file name="nomq_blog.css" crc="392557588" ref="blog"/>
   </folder>
   <folder name="scripts">
@@ -124,28 +124,28 @@
     <file name="u20705_2x5.png" crc="100284086" ref="index"/>
     <file name="u20705-r5.png" crc="271732809" ref="index"/>
     <file name="u20705-r_2x5.png" crc="100284086" ref="index"/>
-    <file name="u4537.png" crc="363662877" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
-    <file name="u4537_2x.png" crc="263106320" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
+    <file name="u4537.png" crc="3878828507" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
+    <file name="u4537_2x.png" crc="4221280331" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
     <file name="u4537-a.png" crc="4069949833" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
     <file name="u4537-a_2x.png" crc="479091459" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
-    <file name="u4876.png" crc="202721797" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
-    <file name="u4876_2x.png" crc="3921391415" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
+    <file name="u4876.png" crc="173865961" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
+    <file name="u4876_2x.png" crc="3815671460" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
     <file name="u4876-a.png" crc="47792800" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
     <file name="u4876-a_2x.png" crc="4101233102" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
-    <file name="u4813.png" crc="241758256" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
-    <file name="u4813_2x.png" crc="4075867031" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
+    <file name="u4813.png" crc="4247849021" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
+    <file name="u4813_2x.png" crc="403381112" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
     <file name="u4813-a.png" crc="177177923" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
     <file name="u4813-a_2x.png" crc="3844836952" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
-    <file name="u4750.png" crc="143251048" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
-    <file name="u4750_2x.png" crc="3871433947" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
+    <file name="u4750.png" crc="530439333" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
+    <file name="u4750_2x.png" crc="27628272" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
     <file name="u4750-a.png" crc="3868209559" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
     <file name="u4750-a_2x.png" crc="337115883" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
-    <file name="u4687.png" crc="4166596415" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
-    <file name="u4687_2x.png" crc="260659235" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
+    <file name="u4687.png" crc="330511336" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
+    <file name="u4687_2x.png" crc="4054335380" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
     <file name="u4687-a.png" crc="382664562" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
     <file name="u4687-a_2x.png" crc="4016690925" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
-    <file name="u4621.png" crc="4060969548" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
-    <file name="u4621_2x.png" crc="3851456934" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
+    <file name="u4621.png" crc="334476451" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
+    <file name="u4621_2x.png" crc="3820552051" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
     <file name="u4621-a.png" crc="90354299" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
     <file name="u4621-a_2x.png" crc="4256581067" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
     <file name="u22628-45.png" crc="64374024" ref="index"/>
@@ -1772,22 +1772,22 @@
     <file name="u37241-r_2x7.png" crc="447081698" ref="contact-us"/>
     <file name="u37241-fs7.png" crc="381861420" ref="contact-us"/>
     <file name="u37241-fs_2x7.png" crc="43551534" ref="contact-us"/>
-    <file name="u37250-fs7.png" crc="90585594" ref="contact-us"/>
-    <file name="u37250-fs_2x7.png" crc="151609006" ref="contact-us"/>
-    <file name="u37251-fss7.png" crc="3769679136" ref="contact-us"/>
-    <file name="u37251-fss_2x7.png" crc="266931191" ref="contact-us"/>
+    <file name="u37250-fs7.png" crc="498346781" ref="contact-us"/>
+    <file name="u37250-fs_2x7.png" crc="374264213" ref="contact-us"/>
+    <file name="u37251-fss7.png" crc="507572892" ref="contact-us"/>
+    <file name="u37251-fss_2x7.png" crc="17198395" ref="contact-us"/>
     <file name="u37670-47.png" crc="319230395" ref="contact-us"/>
     <file name="u37670-4_2x7.png" crc="2295692" ref="contact-us"/>
     <file name="u34636-48.png" crc="91511251" ref="contact-us"/>
     <file name="u34636-4_2x8.png" crc="161229098" ref="contact-us"/>
     <file name="u34644-48.png" crc="4089252817" ref="contact-us"/>
     <file name="u34644-4_2x8.png" crc="4278704864" ref="contact-us"/>
-    <file name="u37415-48.png" crc="331419385" ref="contact-us"/>
-    <file name="u37415-4_2x8.png" crc="4234545697" ref="contact-us"/>
-    <file name="u37652_states8.png" crc="187511882" ref="contact-us"/>
-    <file name="u37652_states_2x8.png" crc="322108298" ref="contact-us"/>
-    <file name="u37652_states-r8.png" crc="79071703" ref="contact-us"/>
-    <file name="u37652_states-r_2x8.png" crc="4292790322" ref="contact-us"/>
+    <file name="u37415-48.png" crc="283400991" ref="contact-us"/>
+    <file name="u37415-4_2x8.png" crc="278882446" ref="contact-us"/>
+    <file name="u37652_states8.png" crc="11050139" ref="contact-us"/>
+    <file name="u37652_states_2x8.png" crc="34706278" ref="contact-us"/>
+    <file name="u37652_states-r8.png" crc="3873678823" ref="contact-us"/>
+    <file name="u37652_states-r_2x8.png" crc="333875799" ref="contact-us"/>
     <file name="u37388-58.png" crc="170275517" ref="contact-us"/>
     <file name="u37388-5_2x8.png" crc="4222088116" ref="contact-us"/>
     <file name="u372418.png" crc="4126686310" ref="contact-us"/>
@@ -1796,22 +1796,22 @@
     <file name="u37241-r_2x8.png" crc="499166496" ref="contact-us"/>
     <file name="u37241-fs8.png" crc="3777890207" ref="contact-us"/>
     <file name="u37241-fs_2x8.png" crc="275696793" ref="contact-us"/>
-    <file name="u37250-fs8.png" crc="3975266143" ref="contact-us"/>
-    <file name="u37250-fs_2x8.png" crc="4200286688" ref="contact-us"/>
-    <file name="u37251-fss8.png" crc="248686780" ref="contact-us"/>
-    <file name="u37251-fss_2x8.png" crc="531151444" ref="contact-us"/>
+    <file name="u37250-fs8.png" crc="3945370843" ref="contact-us"/>
+    <file name="u37250-fs_2x8.png" crc="3839848275" ref="contact-us"/>
+    <file name="u37251-fss8.png" crc="153995972" ref="contact-us"/>
+    <file name="u37251-fss_2x8.png" crc="402749400" ref="contact-us"/>
     <file name="u37670-48.png" crc="166637715" ref="contact-us"/>
     <file name="u37670-4_2x8.png" crc="4285914372" ref="contact-us"/>
     <file name="u34636-49.png" crc="198531906" ref="contact-us"/>
     <file name="u34636-4_2x9.png" crc="4085382929" ref="contact-us"/>
     <file name="u34644-49.png" crc="3999718291" ref="contact-us"/>
     <file name="u34644-4_2x9.png" crc="4070423807" ref="contact-us"/>
-    <file name="u37415-49.png" crc="3861066099" ref="contact-us"/>
-    <file name="u37415-4_2x9.png" crc="4231305402" ref="contact-us"/>
-    <file name="u37652_states9.png" crc="65168312" ref="contact-us"/>
-    <file name="u37652_states_2x9.png" crc="4262941668" ref="contact-us"/>
-    <file name="u37652_states-r9.png" crc="361774512" ref="contact-us"/>
-    <file name="u37652_states-r_2x9.png" crc="3988881475" ref="contact-us"/>
+    <file name="u37415-49.png" crc="283400991" ref="contact-us"/>
+    <file name="u37415-4_2x9.png" crc="278882446" ref="contact-us"/>
+    <file name="u37652_states9.png" crc="11050139" ref="contact-us"/>
+    <file name="u37652_states_2x9.png" crc="34706278" ref="contact-us"/>
+    <file name="u37652_states-r9.png" crc="3873678823" ref="contact-us"/>
+    <file name="u37652_states-r_2x9.png" crc="333875799" ref="contact-us"/>
     <file name="u37388-59.png" crc="4244934246" ref="contact-us"/>
     <file name="u37388-5_2x9.png" crc="4141228795" ref="contact-us"/>
     <file name="u372419.png" crc="4126686310" ref="contact-us"/>
@@ -1846,8 +1846,8 @@
     <file name="u37241-r_2x10.png" crc="7015364" ref="contact-us"/>
     <file name="u37241-fs10.png" crc="4009496261" ref="contact-us"/>
     <file name="u37241-fs_2x10.png" crc="3880961034" ref="contact-us"/>
-    <file name="u37250-fs10.png" crc="4038146397" ref="contact-us"/>
-    <file name="u37250-fs_2x10.png" crc="3946835587" ref="contact-us"/>
+    <file name="u37250-fs10.png" crc="3936021113" ref="contact-us"/>
+    <file name="u37250-fs_2x10.png" crc="3759533634" ref="contact-us"/>
     <file name="u37251-fss10.png" crc="518056064" ref="contact-us"/>
     <file name="u37251-fss_2x10.png" crc="4166845918" ref="contact-us"/>
     <file name="u37670-410.png" crc="485096813" ref="contact-us"/>
@@ -1970,14 +1970,14 @@
     <file name="u37424_states_2x7.png" crc="252074578" ref="contact-us"/>
     <file name="u37424_states-r7.png" crc="307415198" ref="contact-us"/>
     <file name="u37424_states-r_2x7.png" crc="3820400430" ref="contact-us"/>
-    <file name="u37424_states8.png" crc="4090209429" ref="contact-us"/>
-    <file name="u37424_states_2x8.png" crc="4009863748" ref="contact-us"/>
-    <file name="u37424_states-r8.png" crc="4079956213" ref="contact-us"/>
-    <file name="u37424_states-r_2x8.png" crc="4033829627" ref="contact-us"/>
-    <file name="u37424_states9.png" crc="170501008" ref="contact-us"/>
-    <file name="u37424_states_2x9.png" crc="321538354" ref="contact-us"/>
-    <file name="u37424_states-r9.png" crc="424158711" ref="contact-us"/>
-    <file name="u37424_states-r_2x9.png" crc="96731848" ref="contact-us"/>
+    <file name="u37424_states8.png" crc="3866974345" ref="contact-us"/>
+    <file name="u37424_states_2x8.png" crc="4132535707" ref="contact-us"/>
+    <file name="u37424_states-r8.png" crc="261694461" ref="contact-us"/>
+    <file name="u37424_states-r_2x8.png" crc="4135551615" ref="contact-us"/>
+    <file name="u37424_states9.png" crc="3866974345" ref="contact-us"/>
+    <file name="u37424_states_2x9.png" crc="4132535707" ref="contact-us"/>
+    <file name="u37424_states-r9.png" crc="261694461" ref="contact-us"/>
+    <file name="u37424_states-r_2x9.png" crc="4135551615" ref="contact-us"/>
     <file name="u37424_states10.png" crc="3899167564" ref="contact-us"/>
     <file name="u37424_states_2x10.png" crc="30804689" ref="contact-us"/>
     <file name="u37424_states-r10.png" crc="3885162857" ref="contact-us"/>
@@ -1988,9 +1988,9 @@
       <caption webpage="sponsors" alt=""/>
       <caption webpage="gallery" alt=""/>
       <caption webpage="gallery" alt=""/>
-      <caption webpage="our-team" alt=""/>
-      <caption webpage="our-team" alt=""/>
-      <caption webpage="our-team" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -2000,9 +2000,9 @@
       <caption webpage="the-pod" alt=""/>
       <caption webpage="the-pod" alt=""/>
       <caption webpage="the-pod" alt=""/>
-      <caption webpage="blog" alt=""/>
-      <caption webpage="blog" alt=""/>
-      <caption webpage="blog" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
     </file>
     <file name="new_2x.png" crc="300992141" seo="true" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors">
       <caption webpage="sponsors" alt=""/>
@@ -2010,9 +2010,9 @@
       <caption webpage="sponsors" alt=""/>
       <caption webpage="gallery" alt=""/>
       <caption webpage="gallery" alt=""/>
-      <caption webpage="our-team" alt=""/>
-      <caption webpage="our-team" alt=""/>
-      <caption webpage="our-team" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -2022,9 +2022,9 @@
       <caption webpage="the-pod" alt=""/>
       <caption webpage="the-pod" alt=""/>
       <caption webpage="the-pod" alt=""/>
-      <caption webpage="blog" alt=""/>
-      <caption webpage="blog" alt=""/>
-      <caption webpage="blog" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
     </file>
     <file name="xl-2017-hyperloop-pod-competition-1.jpg" crc="4243086926" ref="index">
       <caption webpage="index" alt=""/>
@@ -4283,8 +4283,10 @@
     </file>
     <file name="icons8-email-9614x14.png" crc="31489398" seo="true" ref="contact-us">
       <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
     </file>
     <file name="icons8-email-9614x14_2x.png" crc="289309320" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
       <caption webpage="contact-us" alt=""/>
     </file>
     <file name="icons8-instagram-9614x14.png" crc="3885432199" seo="true" ref="contact-us">
@@ -4297,12 +4299,6 @@
       <caption webpage="contact-us" alt=""/>
     </file>
     <file name="icons8-phone-40012x12_2x.png" crc="4146969498" seo="true" ref="contact-us">
-      <caption webpage="contact-us" alt=""/>
-    </file>
-    <file name="icons8-email-9612x12.png" crc="4146707406" seo="true" ref="contact-us">
-      <caption webpage="contact-us" alt=""/>
-    </file>
-    <file name="icons8-email-9612x12_2x.png" crc="4126969496" seo="true" ref="contact-us">
       <caption webpage="contact-us" alt=""/>
     </file>
     <file name="icons8-instagram-9612x12.png" crc="233935287" seo="true" ref="contact-us">
@@ -4626,11 +4622,11 @@
     <file name="u26083-510.png" crc="68512041" ref="index"/>
     <file name="u26083-5_2x10.png" crc="3859566578" ref="index"/>
   </folder>
-  <file name="index.html" crc="480116690" seo="true" mt="1565275535844" redirect="true"/>
-  <file name="the-pod.html" crc="284602285" seo="true" mt="1565275580144" redirect="true"/>
-  <file name="contact-us.html" crc="174765923" seo="true" mt="1565275595931" redirect="true"/>
-  <file name="gallery.html" crc="143558614" seo="true" mt="1565275535844" redirect="true"/>
-  <file name="our-team.html" crc="4098791354" seo="true" mt="1565275791085" redirect="true"/>
-  <file name="blog.html" crc="3776342218" seo="true" mt="1565275535844" redirect="true"/>
-  <file name="sponsors.html" crc="456466675" seo="true" mt="1565276603282" redirect="true"/>
+  <file name="index.html" crc="344362502" seo="true" mt="1565280402253" redirect="true"/>
+  <file name="the-pod.html" crc="4071846874" seo="true" mt="1565280444768" redirect="true"/>
+  <file name="contact-us.html" crc="317431759" seo="true" mt="1565280461923" redirect="true"/>
+  <file name="gallery.html" crc="3949548201" seo="true" mt="1565280402253" redirect="true"/>
+  <file name="our-team.html" crc="887868" seo="true" mt="1565280402253" redirect="true"/>
+  <file name="blog.html" crc="138287165" seo="true" mt="1565280402253" redirect="true"/>
+  <file name="sponsors.html" crc="183796890" seo="true" mt="1565280654555" redirect="true"/>
 </manifest>
