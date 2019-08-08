@@ -27,8 +27,8 @@ $form = array(
 		'unknown_method' => 'Unknown server request method'
 	),
 	'email' => array(
-		'from' => 'akhilhk12@gmail.com',
-		'to' => 'akhilhk12@gmail.com'
+		'from' => 'coep.hyperloop@coep.ac.in',
+		'to' => 'coep.hyperloop@coep.ac.in'
 	),
 	'fields' => array(
 		'custom_U37242' => array(
