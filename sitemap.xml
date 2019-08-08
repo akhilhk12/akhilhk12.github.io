@@ -95,6 +95,24 @@
     <image:image>
       <image:loc>http://coep.ac.in/images/new_2x.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://coep.ac.in/images/new132x97.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://coep.ac.in/images/new132x97_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://coep.ac.in/images/new105x77.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://coep.ac.in/images/new105x77_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://coep.ac.in/images/new139x102.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://coep.ac.in/images/new139x102_2x.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://coep.ac.in/contact-us.html</loc>

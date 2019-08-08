@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="coep.ac.in" resolutions="1x,2x" timestamp="1565286619140">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="coep.ac.in" resolutions="1x,2x" timestamp="1565288085031">
   <folder name="assets">
     <file name="team.jpeg" crc="304222971" seo="true" mt="1561523082000"/>
     <file name="img-20190519-wa0009-(1).jpg" crc="113092281" seo="true" mt="1564859136000"/>
@@ -13,7 +13,7 @@
   <folder name="css">
     <file name="site_global.css" crc="2580862"/>
     <file name="index.css" crc="4149051484" ref="index"/>
-    <file name="master_a-master.css" crc="4181385328" ref="index:the-pod:contact-us:gallery:our-team:sponsors:blog"/>
+    <file name="master_a-master.css" crc="7992588" ref="index:the-pod:contact-us:gallery:our-team:sponsors:blog"/>
     <file name="nomq_preview_master_a-master.css" crc="3853324325" ref="index:the-pod:contact-us:gallery:our-team:sponsors:blog"/>
     <file name="nomq_index.css" crc="158856490" ref="index"/>
     <file name="the-pod.css" crc="430404548" ref="the-pod"/>
@@ -24,7 +24,7 @@
     <file name="nomq_gallery.css" crc="530711276" ref="gallery"/>
     <file name="our-team.css" crc="274106297" ref="our-team"/>
     <file name="nomq_our-team.css" crc="4262707151" ref="our-team"/>
-    <file name="sponsors.css" crc="3781273140" ref="sponsors"/>
+    <file name="sponsors.css" crc="48299635" ref="sponsors"/>
     <file name="nomq_sponsors.css" crc="4102466415" ref="sponsors"/>
     <file name="blog.css" crc="532121067" ref="blog"/>
     <file name="nomq_blog.css" crc="67891241" ref="blog"/>
@@ -52,20 +52,21 @@
     <file name="form-u37235.php" crc="3886345954" ref="contact-us"/>
   </folder>
   <folder name="images">
-    <file name="templ.png" crc="4262706910" ref="index">
+    <file name="templ.png" crc="4262706910" ref="index:gallery">
       <caption webpage="index" alt=""/>
-      <caption webpage="the-pod" alt=""/>
-      <caption webpage="the-pod" alt=""/>
       <caption webpage="contact-us" alt=""/>
       <caption webpage="contact-us" alt=""/>
+      <caption webpage="the-pod" alt=""/>
+      <caption webpage="the-pod" alt=""/>
+      <caption webpage="gallery" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
     <file name="u20705.png" crc="420108249" ref="index"/>
     <file name="u20705_2x.png" crc="4187275776" ref="index"/>
     <file name="u20705-r.png" crc="420108249" ref="index"/>
     <file name="u20705-r_2x.png" crc="4187275776" ref="index"/>
-    <file name="u114-4.png" crc="463676457" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
-    <file name="u114-4_2x.png" crc="170789196" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
+    <file name="u114-4.png" crc="3924265322" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
+    <file name="u114-4_2x.png" crc="4006350398" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
     <file name="u176-4.png" crc="475911366" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
     <file name="u176-4_2x.png" crc="509450786" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
     <file name="u155-4.png" crc="3798142267" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
@@ -234,12 +235,13 @@
     <file name="u27335_2x.png" crc="3907291428" ref="index"/>
     <file name="u27335-a.png" crc="4115703613" ref="index"/>
     <file name="u27335-a_2x.png" crc="3973825534" ref="index"/>
-    <file name="templ_2x.png" crc="276000046" ref="index">
+    <file name="templ_2x.png" crc="276000046" ref="index:gallery">
       <caption webpage="index" alt=""/>
       <caption webpage="the-pod" alt=""/>
+      <caption webpage="gallery" alt=""/>
     </file>
-    <file name="u31388-4.png" crc="463676457" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
-    <file name="u31388-4_2x.png" crc="170789196" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
+    <file name="u31388-4.png" crc="3924265322" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
+    <file name="u31388-4_2x.png" crc="4006350398" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
     <file name="u31379-4.png" crc="475911366" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
     <file name="u31379-4_2x.png" crc="509450786" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
     <file name="u31394-4.png" crc="3798142267" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
@@ -1968,9 +1970,9 @@
       <caption webpage="sponsors" alt=""/>
       <caption webpage="gallery" alt=""/>
       <caption webpage="gallery" alt=""/>
-      <caption webpage="our-team" alt=""/>
-      <caption webpage="our-team" alt=""/>
-      <caption webpage="our-team" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -1980,9 +1982,9 @@
       <caption webpage="the-pod" alt=""/>
       <caption webpage="the-pod" alt=""/>
       <caption webpage="the-pod" alt=""/>
-      <caption webpage="blog" alt=""/>
-      <caption webpage="blog" alt=""/>
-      <caption webpage="blog" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
     </file>
     <file name="new_2x.png" crc="300992141" seo="true" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors">
       <caption webpage="sponsors" alt=""/>
@@ -1990,9 +1992,9 @@
       <caption webpage="sponsors" alt=""/>
       <caption webpage="gallery" alt=""/>
       <caption webpage="gallery" alt=""/>
-      <caption webpage="our-team" alt=""/>
-      <caption webpage="our-team" alt=""/>
-      <caption webpage="our-team" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -2002,34 +2004,40 @@
       <caption webpage="the-pod" alt=""/>
       <caption webpage="the-pod" alt=""/>
       <caption webpage="the-pod" alt=""/>
-      <caption webpage="blog" alt=""/>
-      <caption webpage="blog" alt=""/>
-      <caption webpage="blog" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
     </file>
     <file name="xl-2017-hyperloop-pod-competition-1.jpg" crc="4243086926" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u5261-6.png" crc="3811938657" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
-    <file name="u5261-6_2x.png" crc="4007575395" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
-    <file name="new132x97.png" crc="309784320" seo="true" ref="index">
+    <file name="u5261-6.png" crc="4227215238" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
+    <file name="u5261-6_2x.png" crc="3990388149" ref="index:the-pod:contact-us:gallery:our-team:blog:sponsors"/>
+    <file name="new132x97.png" crc="309784320" seo="true" ref="index:gallery">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
     </file>
-    <file name="new132x97_2x.png" crc="49135220" seo="true" ref="index">
+    <file name="new132x97_2x.png" crc="49135220" seo="true" ref="index:gallery">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
     </file>
-    <file name="new105x77.png" crc="212478494" seo="true" ref="index">
+    <file name="new105x77.png" crc="212478494" seo="true" ref="index:gallery">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
     </file>
-    <file name="new105x77_2x.png" crc="403968787" seo="true" ref="index">
+    <file name="new105x77_2x.png" crc="403968787" seo="true" ref="index:gallery">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
     </file>
     <file name="u76500-4.png" crc="399980848" ref="gallery"/>
     <file name="u76500-4_2x.png" crc="4282657422" ref="gallery"/>
@@ -4145,11 +4153,15 @@
     <file name="u43917-14_2x9.png" crc="4143756107" ref="the-pod"/>
     <file name="u43917-1410.png" crc="3861227221" ref="the-pod"/>
     <file name="u43917-14_2x10.png" crc="379673621" ref="the-pod"/>
-    <file name="new139x102.png" crc="68432653" seo="true" ref="index">
+    <file name="new139x102.png" crc="68432653" seo="true" ref="index:gallery">
       <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
     </file>
-    <file name="new139x102_2x.png" crc="300992141" seo="true" ref="index">
+    <file name="new139x102_2x.png" crc="300992141" seo="true" ref="index:gallery">
       <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
     </file>
     <file name="icons8-instagram-96.png" crc="23858997" seo="true" ref="contact-us">
       <caption webpage="contact-us" alt=""/>
@@ -4619,8 +4631,8 @@
   <file name="index.html" crc="3804059971" seo="true" mt="1565286029202" redirect="true"/>
   <file name="the-pod.html" crc="3761816987" seo="true" mt="1565286401036" redirect="true"/>
   <file name="contact-us.html" crc="4002417029" seo="true" mt="1565286414901" redirect="true"/>
-  <file name="gallery.html" crc="388994415" seo="true" mt="1565286029202" redirect="true"/>
+  <file name="gallery.html" crc="3980102820" seo="true" mt="1565287886248" redirect="true"/>
   <file name="our-team.html" crc="325969703" seo="true" mt="1565286029202" redirect="true"/>
   <file name="blog.html" crc="3887925364" seo="true" mt="1565286029202" redirect="true"/>
-  <file name="sponsors.html" crc="514925332" seo="true" mt="1565286614624" redirect="true"/>
+  <file name="sponsors.html" crc="4050912776" seo="true" mt="1565288082027" redirect="true"/>
 </manifest>
