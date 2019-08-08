@@ -83,15 +83,6 @@
     <image:image>
       <image:loc>http://coep.ac.in/images/icons8-color-4830x30.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://coep.ac.in/images/icons8-color-4826x26.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://coep.ac.in/images/icons8-color-4829x29.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://coep.ac.in/images/icons8-color-4823x23.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://coep.ac.in/gallery.html</loc>
