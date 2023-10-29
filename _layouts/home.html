@@ -69,7 +69,16 @@
                 {% include practice_item.html %}
               {% endfor %}
             </ul> 
-          </div>  
+          </div> 
+          <button class="accordion">Cryptography</button>
+          <div class="panel">
+            {% assign post_articles = site.pico | where:"grouped_by","picocrypto" %}
+            <ul>
+              {% for post in post_articles %}
+                {% include practice_item.html %}
+              {% endfor %}
+            </ul> 
+          </div> 
       </div>
 </main>
     

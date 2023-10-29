@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "seed=sPRING"
+title:  "seedsPRING"
 grouped_by: picobin
 ---
 ### Description
